@@ -12,19 +12,11 @@ Features
 
 Technologies Used
 - React.js
-- Tailwind CSS / CSS modules (or your preferred styling)
-- Axios (for API calls)
-- DeepAI API / Custom AI backend (for chatbot)
+- CSS modules
+- Open AI (for API calls) not Conneceted
 - Form handling with React hooks
-- Deployment tools (e.g., Vercel, Netlify)
-
 
 Getting Started
-
-Prerequisites
-- Node.js (v14 or above)
-- npm or yarn package manager
-
 Features Breakdown
 
 1. Automobile Parts Catalog
@@ -52,12 +44,5 @@ Customization
 - Parts Data: Replace dummy data with your actual parts database or API.
 - Styling: Customize styles to match your branding.
 
-Deployment
-- Build the production version:
-
 Contributing
 -Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
-
----
-
-**Enjoy building your Automobile Parts React App with AI chatbot!**
