@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+Pentonic (Automobile Parts) React App with AI Chatbot (In Making)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Automobile Parts React App** — a modern, interactive web application designed to help users browse automobile parts, communicate via an integrated AI chatbot, and get in touch through a contact form. This project showcases React.js for the frontend, integrated AI chatbot functionality, and user engagement features like contact forms and buttons.
 
-## Available Scripts
+Features
+- Browse Automobile Parts: View and search a catalog of automobile parts.
+- AI Chatbot Integration: Interact with an AI-powered chatbot for assistance, FAQs, or support.
+- Contact Form: Easily get in touch with the team for inquiries or support.
+- Interactive Buttons: Call-to-action buttons for navigation and engagement.
+- Responsive Design: Optimized for both desktop and mobile devices.
 
-In the project directory, you can run:
 
-### `npm start`
+Technologies Used
+- React.js
+- Tailwind CSS / CSS modules (or your preferred styling)
+- Axios (for API calls)
+- DeepAI API / Custom AI backend (for chatbot)
+- Form handling with React hooks
+- Deployment tools (e.g., Vercel, Netlify)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Getting Started
 
-### `npm test`
+Prerequisites
+- Node.js (v14 or above)
+- npm or yarn package manager
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Features Breakdown
 
-### `npm run build`
+1. Automobile Parts Catalog
+- Browse and filter available parts.
+- Search functionality for quick access.
+- Detailed view for each part.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. AI Chatbot
+- Interact with an AI chatbot for assistance.
+- Chat window integrated into the app.
+- Sends user queries to an AI backend (e.g., DeepAI API).
+- Displays responses from the AI chatbot.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Contact Form
+- Submit inquiries or feedback.
+- Fields include name, email, message.
+- Connects to backend or email service for form handling.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. Buttons
+- Call-to-action buttons for navigation, contacting, or ordering.
+- Styled for clarity and engagement.
 
-### `npm run eject`
+Customization
+- API Keys: Add your API keys for the AI chatbot in environment variables.
+- Parts Data: Replace dummy data with your actual parts database or API.
+- Styling: Customize styles to match your branding.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deployment
+- Build the production version:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributing
+-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Enjoy building your Automobile Parts React App with AI chatbot!**
