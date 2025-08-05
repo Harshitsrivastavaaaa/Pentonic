@@ -9,7 +9,6 @@ import parts from '../Assets/parts.jpg';
 import projectsuspension from '../Assets/project suspension.jpg';
 import rimstyres from '../Assets/rimstyres.jpg';
 import suspension from '../Assets/suspension.jpg';
-
 function Home() {
     return (
         <>
@@ -109,5 +108,5 @@ function Home() {
         
         </>
     );
-}
-export default Home;
+}      
+export default Index;

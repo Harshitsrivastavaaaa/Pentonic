@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
-import reportWebVitals from './reportWebVitals';
-// import P1 from './P1'; // Importing P1 component
+import reportWebVitals from './reportWebVitals'
 import Home from './component/Home';
 import About from './component/About';
 import Contact from './component/Contact';
@@ -14,12 +12,8 @@ import Chatbot from './component/Chatbot';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-      {/* <App /> */}
-      {/* <P1 /> */}
     <BrowserRouter>
-
-      <Navbar />
-
+      <Navbar/>
       <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/about' element={<About />} />
