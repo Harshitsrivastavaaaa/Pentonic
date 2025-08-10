@@ -39,6 +39,9 @@ Features Breakdown
 - Call-to-action buttons for navigation, contacting, or ordering.
 - Styled for clarity and engagement.
 
+5. Signup/Login Page
+- Signup added for users.
+  
 Customization
 - API Keys: Add your API keys for the AI chatbot in environment variables.
 - Parts Data: Replace dummy data with your actual parts database or API.
