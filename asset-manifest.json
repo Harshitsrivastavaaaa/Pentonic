@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pentonic/static/css/main.12e08ceb.css",
+    "main.css": "/Pentonic/static/css/main.a362d6f7.css",
     "main.js": "/Pentonic/static/js/main.038a0e4d.js",
     "static/js/453.4fdb6275.chunk.js": "/Pentonic/static/js/453.4fdb6275.chunk.js",
     "static/media/bg2.jpg": "/Pentonic/static/media/bg2.28daf161fcce554fd5c8.jpg",
@@ -18,12 +18,12 @@
     "static/media/oilcan.jpg": "/Pentonic/static/media/oilcan.f31a7dfc2d3b847d60e1.jpg",
     "static/media/A11.jpg": "/Pentonic/static/media/A11.8fbc258b2093bc4de366.jpg",
     "index.html": "/Pentonic/index.html",
-    "main.12e08ceb.css.map": "/Pentonic/static/css/main.12e08ceb.css.map",
+    "main.a362d6f7.css.map": "/Pentonic/static/css/main.a362d6f7.css.map",
     "main.038a0e4d.js.map": "/Pentonic/static/js/main.038a0e4d.js.map",
     "453.4fdb6275.chunk.js.map": "/Pentonic/static/js/453.4fdb6275.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12e08ceb.css",
+    "static/css/main.a362d6f7.css",
     "static/js/main.038a0e4d.js"
   ]
 }
