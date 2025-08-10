@@ -9,7 +9,6 @@ import parts from '../Assets/parts.jpg';
 import projectsuspension from '../Assets/project suspension.jpg';
 import rimstyres from '../Assets/rimstyres.jpg';
 import suspension from '../Assets/suspension.jpg';
-
 function Home() {
     return (
         <>
@@ -90,7 +89,7 @@ function Home() {
                     </div>
                     <div className="CARD">
                         <img className="figure_in_card" src={oilcan} alt="china3" />
-                        <h4 className="card_heading">Automotive Oil</h4>
+                        <h4 className="card_heading">Synthetic Automotive Oil</h4>
                         <button id= "bx" type="menu">
                             <a className="link" href="https://boodmo.com/catalog/part-rear_brake_disc-58467341/">Order Now</a>
                         </button>

@@ -6,7 +6,8 @@ import Home from './component/Home';
 import About from './component/About';
 import Contact from './component/Contact';
 import Products from './component/Products';
-import Navbar from './component/Navbar'; // Importing Navbar component
+import Navbar from './component/Navbar';
+import Signup from './component/Signup';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Chatbot from './component/Chatbot';
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -15,11 +16,13 @@ root.render(
     <BrowserRouter>
       <Navbar/>
       <Routes>
-      <Route path='/' element={<Home />} />
+      <Route path='/' element={<Home/>} />
+      <Route path='/pentonic' element={<Home/>} />
       <Route path='/about' element={<About />} />
       <Route path='/contact' element={<Contact />} />
       <Route path='/products' element={<Products />} />
       <Route path='/chatbot' element={<Chatbot />} />
+      <Route path='/Signup' element={<Signup />} />
 
     </Routes>
     </BrowserRouter>
