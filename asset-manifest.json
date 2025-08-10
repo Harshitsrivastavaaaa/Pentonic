@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pentonic/static/css/main.dd29afb5.css",
-    "main.js": "/Pentonic/static/js/main.d0ea0716.js",
+    "main.css": "/Pentonic/static/css/main.d21cc431.css",
+    "main.js": "/Pentonic/static/js/main.1062489c.js",
     "static/js/453.4fdb6275.chunk.js": "/Pentonic/static/js/453.4fdb6275.chunk.js",
     "static/media/bg2.jpg": "/Pentonic/static/media/bg2.28daf161fcce554fd5c8.jpg",
     "static/media/project suspension.jpg": "/Pentonic/static/media/project suspension.b2154e989d62b7ae5eb0.jpg",
@@ -18,12 +18,12 @@
     "static/media/oilcan.jpg": "/Pentonic/static/media/oilcan.f31a7dfc2d3b847d60e1.jpg",
     "static/media/A11.jpg": "/Pentonic/static/media/A11.8fbc258b2093bc4de366.jpg",
     "index.html": "/Pentonic/index.html",
-    "main.dd29afb5.css.map": "/Pentonic/static/css/main.dd29afb5.css.map",
-    "main.d0ea0716.js.map": "/Pentonic/static/js/main.d0ea0716.js.map",
+    "main.d21cc431.css.map": "/Pentonic/static/css/main.d21cc431.css.map",
+    "main.1062489c.js.map": "/Pentonic/static/js/main.1062489c.js.map",
     "453.4fdb6275.chunk.js.map": "/Pentonic/static/js/453.4fdb6275.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd29afb5.css",
-    "static/js/main.d0ea0716.js"
+    "static/css/main.d21cc431.css",
+    "static/js/main.1062489c.js"
   ]
 }
