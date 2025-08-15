@@ -8,6 +8,7 @@ import Contact from './component/Contact';
 import Products from './component/Products';
 import Navbar from './component/Navbar';
 import Signup from './component/Signup';
+import logo from './Assets/logo.png';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Chatbot from './component/Chatbot';
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -23,6 +24,7 @@ root.render(
       <Route path='/products' element={<Products />} />
       <Route path='/chatbot' element={<Chatbot />} />
       <Route path='/Signup' element={<Signup />} />
+      <Route path='/' element={<img src={logo} alt="Pentonic Logo" height="500px" width="350px" />} />
 
     </Routes>
     </BrowserRouter>

@@ -2,28 +2,26 @@ import airfilter from '../Assets/airfilter.jpg';
 import brakepad from '../Assets/brakepad.jpg';
 import Carbody from '../Assets/Carbody.jpg';
 import carplatform from '../Assets/carplatform.jpg';
-import logo from '../Assets/logo.jpg';
 import metalpart from '../Assets/metal part.jpg';
-import oilcan from '../Assets/oilcan.jpg';
 import parts from '../Assets/parts.jpg';
 import projectsuspension from '../Assets/project suspension.jpg';
 import rimstyres from '../Assets/rimstyres.jpg';
 import suspension from '../Assets/suspension.jpg';
+import fullwall from '../Assets/fullwall.png';
 function Home() {
     return (
         <>
             <div>
                 <div className="C1">
                     <div>
+                        <img id="fullwall" src={fullwall} height="90%" width="95%" alt="Pentonic Logo"/>
+                    </div>
+                    <div>
                         <h4 className="title">PENTONIC</h4>
                         <p className="subtitle">High Performance Automobile Parts</p>
                         <button id="B" type="button">
                             <a className="link" href="/Contact"> Know more </a>
                         </button>
-                    </div>
-                    <div>
-                        <img id="page_1_figure" src={parts} height="500px" width="350px" alt="Pentonic items"/>
-                        <img id="page_1_figures" src={logo} height="500px" width="350px" alt="Brand Logo"/>
                     </div>
                 </div>
                 <div className="all_cards">
@@ -88,7 +86,7 @@ function Home() {
                         </button>
                     </div>
                     <div className="CARD">
-                        <img className="figure_in_card" src={oilcan} alt="china3" />
+                        <img className="figure_in_card" src={parts} alt="china3" />
                         <h4 className="card_heading">Synthetic Automotive Oil</h4>
                         <button id= "bx" type="menu">
                             <a className="link" href="https://boodmo.com/catalog/part-rear_brake_disc-58467341/">Order Now</a>
