@@ -8,6 +8,7 @@ import projectsuspension from '../Assets/project suspension.jpg';
 import rimstyres from '../Assets/rimstyres.jpg';
 import suspension from '../Assets/suspension.jpg';
 import fullwall from '../Assets/fullwall.png';
+import { Link } from 'react-router-dom';
 function Home() {
     return (
         <>
@@ -19,9 +20,9 @@ function Home() {
                     <div>
                         <h4 className="title">PENTONIC</h4>
                         <p className="subtitle">High Performance Automobile Parts</p>
-                        <button id="B" type="button">
-                            <a className="link" href='/Signup'> Know more </a>
-                        </button>
+                        <Link to="/contact">
+                        <button id="bx">Know More</button>
+                        </Link>
                     </div>
                 </div>
                 <div className="all_cards">
