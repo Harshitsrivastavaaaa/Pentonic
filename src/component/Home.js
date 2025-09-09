@@ -20,7 +20,7 @@ function Home() {
                         <h4 className="title">PENTONIC</h4>
                         <p className="subtitle">High Performance Automobile Parts</p>
                         <button id="B" type="button">
-                            <a className="link" href="/Contact"> Know more </a>
+                            <a className="link" href='/Contact'> Know more </a>
                         </button>
                     </div>
                 </div>
