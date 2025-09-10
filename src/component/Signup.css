@@ -46,7 +46,7 @@ input[type="password"]:focus {
 }
 
 button[type="submit"] {
-  width: 100%;
+  width: 108%;
   padding: 10px;
   background-color: #0066ff;
   color: #fff;
@@ -58,7 +58,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-  background-color: #0052cc;
+  background-color: #04285f;
   transform: translateY(-2px);
 }
 

@@ -6,7 +6,7 @@ function Contact() {
             <div id="About1">
                 <form id="contact_form" action="/submit" method="post">
                     <p>
-                        <label htmlFor="fullname">Full Name:</label>
+                        <label id="fullname">Full Name:</label>
                         <input type="text" name="fullname" required />
                     </p>
                     <p>

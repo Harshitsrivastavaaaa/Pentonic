@@ -33,10 +33,11 @@ body {
   transform: scale3d(1.05, 1.05, 2);
 }
 #bx{
-    border: 5px solid rgb(168, 26, 26);
-    border-radius: 50px;
-    padding: 2px;
-    background-color: rgb(168, 26, 26);
+  border: 5px solid rgb(168, 26, 26);
+  border-radius: 50px;
+  padding: 2px;
+  background-color: rgb(168, 26, 26);
+  cursor: pointer;
 }
 #bx:hover {
   border: 5px solid rgb(255, 39, 39);
@@ -175,22 +176,15 @@ body {
   max-width: 500px;
   margin: 20px auto;
   padding: 20px;
-  background-color: #dadada;
+  background-color: rgb(255, 223, 119);
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  font-family: Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-#contact_form{
-  margin-bottom: 15px;
-}
-
 
 #contact_form label {
-  display: block;
   margin-bottom: 5px;
-  font-weight: bold;
-  color: #333;
+  color: #000000;
 }
 
 #contact_form input[type="text"],
@@ -204,6 +198,10 @@ body {
   box-sizing: border-box;
   font-size: 14px;
   transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#fullname{
+    margin-bottom: 15px;
 }
 
 #contact_form input[type="text"]:focus,
@@ -221,7 +219,7 @@ body {
 
 #contact_form button[type="submit"] {
   background-color: #4CAF50;
-  color: white;
+  color: rgb(211, 70, 70);
   padding: 10px 20px;
   border: none;
   border-radius: 4px;
@@ -230,9 +228,9 @@ body {
   transition: background-color 0.3s;
 }
 
-#contact_form button[type="submit"]:hover {
+/* #contact_form button[type="submit"]:hover {
   background-color: #45a049;
-}
+} */
 
 .navStyle{
     display: flex;
