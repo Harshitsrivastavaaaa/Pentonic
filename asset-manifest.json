@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pentonic/static/css/main.c5698320.css",
-    "main.js": "/Pentonic/static/js/main.e8a068b8.js",
+    "main.css": "/Pentonic/static/css/main.44607e42.css",
+    "main.js": "/Pentonic/static/js/main.de8e3d65.js",
     "static/media/bg2.jpg": "/Pentonic/static/media/bg2.28daf161fcce554fd5c8.jpg",
     "static/media/project suspension.jpg": "/Pentonic/static/media/project suspension.b2154e989d62b7ae5eb0.jpg",
     "static/media/logo.png": "/Pentonic/static/media/logo.8fa8d6c58a3fc0c783f0.png",
@@ -17,11 +17,11 @@
     "static/media/Carbody.jpg": "/Pentonic/static/media/Carbody.1703eb485a1b0da215d5.jpg",
     "static/media/A11.jpg": "/Pentonic/static/media/A11.8fbc258b2093bc4de366.jpg",
     "index.html": "/Pentonic/index.html",
-    "main.c5698320.css.map": "/Pentonic/static/css/main.c5698320.css.map",
-    "main.e8a068b8.js.map": "/Pentonic/static/js/main.e8a068b8.js.map"
+    "main.44607e42.css.map": "/Pentonic/static/css/main.44607e42.css.map",
+    "main.de8e3d65.js.map": "/Pentonic/static/js/main.de8e3d65.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5698320.css",
-    "static/js/main.e8a068b8.js"
+    "static/css/main.44607e42.css",
+    "static/js/main.de8e3d65.js"
   ]
 }
