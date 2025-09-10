@@ -22,7 +22,7 @@ function Contact() {
                         <textarea name="comments" rows="4" cols="30"></textarea>
                     </p>
                     <p>
-                        <input type="submit" value="Submit" />
+                        <button type="submit1" className="submitB">Submit</button>
                     </p>
                 </form>
             </div>
